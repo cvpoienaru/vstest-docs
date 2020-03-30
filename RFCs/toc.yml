@@ -14,4 +14,5 @@
   href: 0010-Source-Information-For-Discovered-Tests.md
 - name: 0014-Guidelines for TestCase FullyQualifiedName
   href: 0017-TestCase-FullyQualifiedName.md
-  
+- name: 0029 - Debugging External Test Processes
+  href: 0029-Debugging-External-Test-Processes.md
